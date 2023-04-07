@@ -2,7 +2,7 @@
 
 ## I’m currently working on ...
 - [UranosNetworkCreation](https://github.com/UranosNetworkCreation/UranosNetworkCreaton)<br>
-- An gui framework for tft displays (arduino) - Coming soon ;-)<br>
+- An gui framework for tft displays (arduino) ;-)<br>
 .. and a lot of small projects which are definitly not finished.
 
 ## I’m currently learning ...
