@@ -1,12 +1,10 @@
 # Hi there
 
 ## I’m currently working on ...
-- [UranosNetworkCreation](https://github.com/UranosNetworkCreation/UranosNetworkCreaton)<br>
-- An gui framework for tft displays (arduino) ;-)<br>
-.. and a lot of small projects which are definitly not finished.
+- a lot of CPP stuff
 
 ## I’m currently learning ...
-- Dart
+- tensorflow
 
 
 <!--
