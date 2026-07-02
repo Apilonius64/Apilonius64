@@ -4,10 +4,7 @@
 - a bunch of django projects
 
 ## I’m currently learning ...
-- pytorch
-- rust
 - networking with scapy and linux netns
-
 
 <!--
 - 👯 I’m looking to collaborate on ...
