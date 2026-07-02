@@ -1,10 +1,12 @@
 # Hi there
 
 ## I’m currently working on ...
-- a lot of CPP stuff
+- a bunch of django projects
 
 ## I’m currently learning ...
-- tensorflow
+- pytorch
+- rust
+- networking with scapy and linux netns
 
 
 <!--
