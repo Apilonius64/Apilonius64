@@ -1,7 +1,7 @@
 # Hi there
 
 ## I’m currently working on ...
-- a bunch of django projects
+- several django projects
 
 ## I’m currently learning ...
 - networking with scapy and linux netns
